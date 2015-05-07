@@ -1,2 +1,2 @@
-# openwest2015-polymer-slides
-Slide deck for our Polymer Talk at OpenWest 2015
+# openwest2015-angular-slides
+Slide deck for our Angular Presentation at OpenWest 2015
